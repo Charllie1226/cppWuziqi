@@ -5,4 +5,4 @@ Files:
 - /Wuziqi.cpp(Wuziqi.exe) : Main progress
 - /settlementscreen.cpp(settlementscreen.cpp) : Settlement Screen
 - /setting.ini : Setting
-- /inireading : [SimpleIni Head]:https://github.com/brofield/simpleini
+- /inireading : [SimpleIni Head](https://github.com/brofield/simpleini)
